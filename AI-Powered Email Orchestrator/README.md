@@ -6,7 +6,7 @@ A visual automation pipeline that integrates Azure OpenAI with Gmail to create a
 
 Orchestration: n8n
 
-LLM: Azure OpenAI (GPT-4o / GPT-4 Turbo)
+LLM: Azure OpenAI Chat Model(gpt-5-chat)
 
 Memory: Simple Window Buffer (Stateful conversation)
 
